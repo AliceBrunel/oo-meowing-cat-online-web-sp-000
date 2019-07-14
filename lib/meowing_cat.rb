@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat 
-  att_accessor : name
+  att_accessor :name
   
   def meow
    puts "meow!"
