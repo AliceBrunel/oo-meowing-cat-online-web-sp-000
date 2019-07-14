@@ -1,4 +1,5 @@
 ## code your solution here. 
 class Cat 
-  att_accessor :
+  att_accessor : meow
+  att_accessor : name
 end
