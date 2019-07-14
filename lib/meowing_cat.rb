@@ -1,5 +1,9 @@
 ## code your solution here. 
 class Cat 
-  att_accessor : meow
   att_accessor : name
+  
+  def meow
+   puts "meow!"
+  end
+  
 end
